@@ -1,2 +1,2 @@
 # mouse
-Getting locations ofmouse coordinates
+Getting locations of mouse coordinates in linux
